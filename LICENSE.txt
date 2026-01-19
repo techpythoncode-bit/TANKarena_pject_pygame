@@ -1,0 +1,92 @@
+Copyright © [2026] [Shravan Acharya/ Taarena Productions]
+
+All Rights Reserved.
+
+This software, including but not limited to the game executable, source code, scripts, documentation, assets, and all related materials (collectively referred to as the “Software”), is protected by the Copyright Act, 1957, and applicable international copyright laws and treaties.
+
+1. Ownership and Copyright Protection
+
+The Software is the sole and exclusive intellectual property of the owner.
+No ownership rights are transferred under this license.
+
+Any unauthorized copying, reproduction, distribution, public display, public performance, modification, reverse engineering, or commercial exploitation of the Software, in whole or in part, is strictly prohibited and may result in civil and/or criminal liability under the Copyright Act and other applicable laws.
+
+2. Grant of Limited Permission (Educational Use Only)
+
+Permission is hereby granted to any user to:
+
+Access, read, and study the source code
+
+Compile and execute the Software locally
+
+Modify the source code solely for personal, non-commercial, educational, and learning purposes
+
+This permission is:
+
+Limited
+
+Non-exclusive
+
+Non-transferable
+
+Revocable at any time
+
+3. Prohibited Uses
+
+You may NOT, without explicit prior written permission from the owner:
+
+Use the Software or any part of it in a commercial, production, or revenue-generating project
+
+Distribute, sell, sublicense, lease, rent, or publish the Software or its source code
+
+Upload the Software (modified or unmodified) to public repositories, marketplaces, or app stores
+
+Claim authorship or ownership of the original Software
+
+Use the Software in a manner that violates any applicable law or regulation
+
+Any such use shall be considered copyright infringement under the Copyright Act.
+
+4. Educational Compilation and Execution
+
+Users are explicitly allowed to compile and run the Software for educational and learning purposes.
+This allowance does not grant permission to redistribute compiled binaries or derivative works.
+
+5. Production and Commercial Use Disclaimer
+
+If the Software or any portion of it is used in a production, commercial, or public environment without authorization, the owner:
+
+Assumes no responsibility or liability
+
+Provides no support or guarantees
+
+Is not liable for bugs, data loss, security issues, financial losses, or legal consequences
+
+All risks arising from unauthorized use are borne solely by the user.
+
+6. Assets and Third-Party Content
+
+Users are strongly encouraged to use their own original assets.
+
+All third-party assets (including but not limited to artwork, audio, fonts, models, and libraries) remain the property of their respective owners.
+
+Asset ownership and required attributions are listed in the credits.txt file.
+
+This license does not grant any rights to reuse or redistribute third-party assets.
+
+7. No Warranty
+
+The Software is provided “AS IS”, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, accuracy, or non-infringement.
+
+8. Limitation of Liability
+
+In no event shall the owner be liable for any direct, indirect, incidental, consequential, or special damages arising out of or in connection with the use or inability to use the Software.
+
+9. Termination
+
+Any violation of this license shall result in immediate termination of all granted permissions, without notice.
+Upon termination, the user must cease all use of the Software and destroy all copies in their possession.
+
+10. Governing Law
+
+This license shall be governed and interpreted in accordance with the Copyright Act, 1957, and applicable laws of the owner’s jurisdiction.
