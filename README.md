@@ -53,3 +53,45 @@ If any copyright holder believes their work has been used incorrectly or without
 License
 
 This project is intended for educational use only and is not licensed for commercial distribution.
+
+
+#DOWNLOADING PROCESS OF THE GAME (TERMUX/KALI)🚀
+
+Follow these steps 🪜:
+
+```
+bash
+
+git clone https://github.com/techpythoncode-bit/TANKarena_pject_pygame
+
+cd TANKarena_pject_pygame
+
+python3 main.py
+
+```
+
+#REQUIREMENTS(IMPORTANT ⭕)
+
+```
+requirements
+
+python 3
+
+pygame-ce(Don't download Pygame)
+
+```
+
+#COMMANDS TO DOWNLOAD THE REQUIRED PACKAGES 📦
+
+```
+commands
+
+First install python 3.x 🐍(NECESSARY)
+
+pip install pygame-ce 🕹️(FOR TERMUX)
+
+apt install python3-pygame-ce(FOR KALI LINUX) 👨‍💻
+
+```
+
+THANK YOU!
