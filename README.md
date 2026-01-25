@@ -8,8 +8,11 @@ The project showcases creativity, technical skills, and design concepts learned 
 
 **📅 Event Details**
 Event Name: DigiFest
+
 Event Date: 19/01/2026
+
 Organized By: cybersquare.org
+
 Venue: Morning Star High School, Barangabari (MSSSSB)
 
 **🛠 Development Team**
