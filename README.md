@@ -1,22 +1,37 @@
-🚀 Tank Arena Game Project
-Overview
-This game was developed strictly for educational and non-commercial purposes as part of the DigiFest event. The project showcases creativity, technical skills, and design concepts learned during the development process.
-📅 Event Details
+**🚀 Tank Arena Game Project**
+
+**Overview*"
+
+This game was developed strictly for educational and non-commercial purposes as part of the DigiFest event.
+
+The project showcases creativity, technical skills, and design concepts learned during the development process.
+
+**📅 Event Details**
 Event Name: DigiFest
 Event Date: 19/01/2026
 Organized By: cybersquare.org
 Venue: Morning Star High School, Barangabari (MSSSSB)
-🛠 Development Team
+
+**🛠 Development Team**
 Programmer: Shravan Acharya
+
 Designer: Rahul Chetry
+
 Timeline: 18/12/2025 – 18/01/2026
-⚖️ Educational Purpose & Disclaimer
+
+**⚖️ Educational Purpose & Disclaimer**
+
 This project was created solely for learning and demonstration. It is not intended for commercial use or public sale.
+
 Credits: Some assets used may be copyrighted. All third-party materials are credited in credits.txt and the in-game Credits section.
+
 Copyright: © 2026 – Project Developers. All rights remain with respective owners. We operate under Fair Use for educational purposes.
-📥 Installation Process (Termux / Kali Linux)
+
+**📥 Installation Process (Termux / Kali Linux)**
+
 Follow these steps to get the game running:
-1. Requirements ⭕
+
+**1. Requirements ⭕**
 
 ```
 Important: This game requires pygame-ce (Community Edition). Standard pygame may throw "wheel" errors on newer versions of Python.
@@ -24,7 +39,7 @@ Python 3.x
 pygame-ce
 ```
 
-2. Install Packages 📦
+**2. Install Packages 📦**
 
 ```
 For Termux:
@@ -37,10 +52,10 @@ sudo apt update
 sudo apt install python3-pygame-ce
 ```
 
-3. Clone and Run 🎮
+**3. Clone and Run 🎮**
 Run the following commands in your terminal:
 
-CONTACT US 📞🤙↓
+**CONTACT US 📞🤙↓**
 ```
 EMAIL ADRESS ✉️
 
