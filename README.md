@@ -1,6 +1,6 @@
 **🚀 Tank Arena Game Project**
 
-**Overview*"
+**Overview**
 
 This game was developed strictly for educational and non-commercial purposes as part of the DigiFest event.
 
