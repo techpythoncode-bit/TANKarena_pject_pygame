@@ -57,6 +57,15 @@ sudo apt install python3-pygame-ce
 
 **3. Clone and Run 🎮**
 Run the following commands in your terminal:
+```
+final steps
+
+git clone https://github.com/techpythoncode-bit/TANKarena_pject_pygame
+
+cd TANKarena_pject_pygame
+
+python3 main.py
+```
 
 **CONTACT US 📞🤙↓**
 ```
